@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0203-remove-linked-list-elements) |
@@ -23,9 +24,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0002-add-two-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
