@@ -46,6 +46,5 @@ public:
         
         if(list1 -> val <= list2 -> val) return merge(list1, list2);
         else return merge(list2, list1);
-        
     }
 };
