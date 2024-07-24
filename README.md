@@ -38,5 +38,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0071-simplify-path) |
 | [0445-add-two-numbers-ii](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0445-add-two-numbers-ii) |
+## String
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
