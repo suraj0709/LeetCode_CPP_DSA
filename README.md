@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
@@ -44,4 +45,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0071-simplify-path) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
