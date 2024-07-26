@@ -49,4 +49,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0239-sliding-window-maximum](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0239-sliding-window-maximum) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
