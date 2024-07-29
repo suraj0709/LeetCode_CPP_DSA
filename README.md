@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0572-subtree-of-another-tree) |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0572-subtree-of-another-tree) |
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0572-subtree-of-another-tree) |
@@ -92,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0226-invert-binary-tree) |
 ## String Matching
 |  |
