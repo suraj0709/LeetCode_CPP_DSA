@@ -20,7 +20,6 @@ private:
     }
 public:
     int maxDepth(TreeNode* root) {
-        if(root == NULL) return 0;
         return height(root);
     }
 };
