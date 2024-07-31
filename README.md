@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -105,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -140,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
