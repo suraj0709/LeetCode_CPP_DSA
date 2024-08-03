@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0151-reverse-words-in-a-string) |
 ## Array
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
