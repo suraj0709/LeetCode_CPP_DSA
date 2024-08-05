@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0257-binary-tree-paths](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0273-integer-to-english-words) |
 | [0874-backspace-string-compare](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0874-backspace-string-compare) |
 ## Array
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0572-subtree-of-another-tree) |
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0572-subtree-of-another-tree) |
@@ -139,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0572-subtree-of-another-tree) |
@@ -190,4 +194,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0874-backspace-string-compare) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
