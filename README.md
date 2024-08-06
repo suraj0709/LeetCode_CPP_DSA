@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0048-rotate-image) |
 | [0273-integer-to-english-words](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0273-integer-to-english-words) |
 | [0445-add-two-numbers-ii](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0445-add-two-numbers-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0048-rotate-image) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0239-sliding-window-maximum](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0239-sliding-window-maximum) |
 ## Queue
@@ -198,4 +200,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0257-binary-tree-paths) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
