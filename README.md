@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0141-linked-list-cycle) |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0048-rotate-image) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -208,4 +210,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0048-rotate-image) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
