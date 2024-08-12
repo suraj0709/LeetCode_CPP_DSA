@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0143-reorder-list) |
 | [0173-binary-search-tree-iterator](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0445-add-two-numbers-ii) |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0239-sliding-window-maximum) |
 ## Sliding Window
@@ -195,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/suraj0709/LeetCode_CPP_DSA/tree/master/0232-implement-queue-using-stacks) |
 ## Iterator
 |  |
